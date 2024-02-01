@@ -32,10 +32,10 @@ The Library Management System CLI is a command-line interface application built 
 ## Project Credits
 This project was created by:
 - **Mentor:** [Berfin Inal]()
-- [Nasir Ahmad Dastgirzada]()
+- [Nasir Ahmad Dastgirzada](https://www.linkedin.com/in/nasir-ahmad-dastgirzada/)
 - [Hadeel Alnumiri]()
 - [Hojjat Ollah Saeedi]()
-- [Milad Torang]()
+- [Milad Torang](https://www.linkedin.com/in/milad-torang-7a2955271/?originalSubdomain=nl)
 
 
 
