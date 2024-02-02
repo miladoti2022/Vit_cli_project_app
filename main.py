@@ -7,7 +7,8 @@ from datetime import date
 from getpass import getuser
 
 # Establish connection to SQLite database
-
+conn = sqlite3.connect("sample.db")
+cursor = conn.cursor()
 
 # Initialize Typer app and Rich console
 app = typer.Typer()
