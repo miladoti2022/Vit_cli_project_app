@@ -7,7 +7,7 @@ from datetime import date
 from getpass import getuser
 
 # Establish connection to SQLite database
-conn = sqlite3.connect("sample.db")
+conn = sqlite3.connect("C:\\Users\\NIL\\OneDrive\\Desktop\\vit-en_pythonproject\\Vit_cli_project_app\\library.db")
 cursor = conn.cursor()
 
 # Initialize Typer app and Rich console
